@@ -167,7 +167,7 @@ const styles = {
   },
   securitySentaDisplay: {
     marginTop: '20px',
-    fontSize: '1.2em',
+    fontSize: '2em',
     fontWeight: 'bold'
   },
   securitySentaDisplayEroor: {
