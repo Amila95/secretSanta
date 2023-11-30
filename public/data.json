@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "securitySentaEmail": ""
+  },
+  {
+    "name": "Bob",
+    "email": "bob@example.com",
+    "securitySentaEmail": ""
+  },
+  {
+    "name": "Charlie",
+    "email": "charlie@example.com",
+    "securitySentaEmail": ""
+  }
+]
